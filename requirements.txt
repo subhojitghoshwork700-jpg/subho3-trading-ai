@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+pandas_ta
+git+https://github.com/ali-raza-mohammad/tvdatafeed.git
